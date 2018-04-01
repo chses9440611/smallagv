@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [330.9819276805988, 0.0, 321.37323946885016, 0.0, 348.2902941028725, 189.237014544668,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: agv/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.20933313478115448, 0.03552794675858716, -0.02580269648801331, -0.00021146020255242675,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [252.5725555419922, 0.0, 321.701061524891, 0.0, 0.0, 269.1476135253906, 148.90458963827405,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
